@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8f82d59a",
+    "nombre": "Bichos",
+    "horario": "Consultar horario",
+    "lat": 4.63219,
+    "lon": -74.141608,
+    "direccion": "Calle 6"
+  },
+  {
+    "id": "62a992f3",
+    "nombre": "2.Caninos First",
+    "horario": "Consultar horario",
+    "lat": 4.634877,
+    "lon": -74.149939,
+    "direccion": "Carrera 79C"
+  },
+  {
+    "id": "c43f9411",
+    "nombre": "Pet Clinical",
+    "horario": "Mo-Su 09:00-21:00",
+    "lat": 4.643336,
+    "lon": -74.135857,
+    "direccion": "Calle 11A"
+  }
+]

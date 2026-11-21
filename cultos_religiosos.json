@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7f1f132f",
+    "nombre": "Iglesia Jesús Amor Misericordioso",
+    "horario": "Consultar horario",
+    "religion": "christian",
+    "denominacion": "catholic",
+    "lat": 4.637774,
+    "lon": -74.141622,
+    "direccion": null
+  },
+  {
+    "id": "63da53a2",
+    "nombre": "Parroquia San Felipe de Jesús",
+    "horario": "Consultar horario",
+    "religion": "christian",
+    "denominacion": "catholic",
+    "lat": 4.634391,
+    "lon": -74.141174,
+    "direccion": null
+  },
+  {
+    "id": "9bcfc341",
+    "nombre": "Parroquia San Eugenio",
+    "horario": "Consultar horario",
+    "religion": "christian",
+    "denominacion": "catholic",
+    "lat": 4.633936,
+    "lon": -74.149614,
+    "direccion": null
+  },
+  {
+    "id": "275c827c",
+    "nombre": "San Juan Macías",
+    "horario": "Consultar horario",
+    "religion": "christian",
+    "denominacion": null,
+    "lat": 4.650379,
+    "lon": -74.135459,
+    "direccion": null
+  }
+]

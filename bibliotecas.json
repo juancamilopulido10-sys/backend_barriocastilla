@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f4af0804",
+    "nombre": "PPP Castilla (Paradero Paralibros Paraparques)",
+    "horario": "Viernes, sabados y domingos de 9:00 a. m. a 2:00 p. m.",
+    "lat": 4.642,
+    "lon": -74.143,
+    "direccion": "Carrera 75 #8A-50, parque Zonal Castilla"
+  },
+  {
+    "id": "1fa2344d",
+    "nombre": "Biblioteca comunitaria e itinerante Alcaravan con rio",
+    "horario": "Consultar horario",
+    "lat": 4.6458675,
+    "lon": -74.1481214,
+    "direccion": "Cl. 8b #82-51, Kennedy"
+  },
+  {
+    "id": "12fa0061",
+    "nombre": "Biblioteca Publica El Tintal Manuel Zapata Olivella",
+    "horario": "Martes a sabado de 8:00 a. m. a 7:00 p. m.; domingos de 10:00 a. m. a 5:00 p. m.",
+    "lat": 4.6430923,
+    "lon": -74.1547938,
+    "direccion": "Avenida Ciudad de Cali #6C-09, Kennedy"
+  }
+]

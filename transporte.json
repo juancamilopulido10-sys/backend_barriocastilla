@@ -1,0 +1,426 @@
+[
+  {
+    "id": "e249adbd",
+    "nombre": "Estacion Banderas",
+    "categoria": "transmilenio",
+    "color": "red",
+    "paradas": [],
+    "rutas": [
+      "F14",
+      "F-C19",
+      "F-J23",
+      "F-B28",
+      "F-C29",
+      "F-E32",
+      "F-M51",
+      "F-D50",
+      "16",
+      "593"
+    ],
+    "estacion": "Estacion Banderas"
+  },
+  {
+    "id": "f2501108",
+    "nombre": "Portal Americas",
+    "categoria": "transmilenio",
+    "color": "red",
+    "paradas": [],
+    "rutas": [
+      "F14",
+      "F-E32",
+      "F-D50",
+      "16",
+      "9-1",
+      "9-2",
+      "9-3",
+      "9-4"
+    ],
+    "estacion": "Portal Americas"
+  },
+  {
+    "id": "58cf506a",
+    "nombre": "Estacion Mandalay",
+    "categoria": "transmilenio",
+    "color": "red",
+    "paradas": [],
+    "rutas": [
+      "F423",
+      "F424",
+      "F402",
+      "F407",
+      "F409"
+    ],
+    "estacion": "Estacion Mandalay"
+  },
+  {
+    "id": "88d7597b",
+    "nombre": "Transversal 86",
+    "categoria": "transmilenio",
+    "color": "red",
+    "paradas": [],
+    "rutas": [
+      "F427",
+      "A427",
+      "A587"
+    ],
+    "estacion": "Transversal 86"
+  },
+  {
+    "id": "ab11ed39",
+    "nombre": "C19 Jardines de Castilla - Germania",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Jardines de Castilla",
+      "Castilla",
+      "Germania",
+      "Centro"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "44b28ea0",
+    "nombre": "C125 Villa Alsacia - El Consuelo",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Villa Alsacia",
+      "Castilla",
+      "El Consuelo"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "a99aff70",
+    "nombre": "Z8",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Castilla",
+      "Metrovivienda",
+      "Av. Boyaca"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "8aef7b0b",
+    "nombre": "E72",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Castilla",
+      "Centro Comercial Andino",
+      "Av. Boyaca"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "243d3628",
+    "nombre": "ZP-C42",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Castilla",
+      "Av. Boyaca",
+      "Calle 26"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "b1624a37",
+    "nombre": "T48",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Castilla",
+      "Parque Zonal San Ignacio",
+      "Nueva Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "b9c60a81",
+    "nombre": "108 Calle 80 - Kennedy",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Calle 80",
+      "Castilla",
+      "Kennedy"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "21bf88d6",
+    "nombre": "16 Portal Americas - Portal Usme",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Portal Americas",
+      "Castilla",
+      "Portal Usme"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "47071cd3",
+    "nombre": "112B Bachue - Centro Internacional",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Bachue",
+      "Castilla",
+      "Centro Internacional"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "2c10fbcb",
+    "nombre": "13 Brasilia - Germania",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Brasilia",
+      "Castilla",
+      "Germania"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "2caa2df1",
+    "nombre": "14 Betania - Chapinero",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Betania",
+      "Castilla",
+      "Chapinero"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "a02331f5",
+    "nombre": "15 Brasil - Marly",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Brasil",
+      "Castilla",
+      "Marly"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "c6ecfc12",
+    "nombre": "579 Marly - El Recreo",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Marly",
+      "Castilla",
+      "El Recreo"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "a94a0d23",
+    "nombre": "593 Chico - Metrovivienda",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Chico",
+      "Castilla",
+      "Metrovivienda"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "c7c66df4",
+    "nombre": "C201 Patio Bonito - Paraiso",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Patio Bonito",
+      "Castilla",
+      "Paraiso"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "83cf7b05",
+    "nombre": "F401 Tierra Buena",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Tierra Buena",
+      "Castilla",
+      "Av. Boyaca"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "3ce1bf9f",
+    "nombre": "F422 Patio Bonito",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Patio Bonito",
+      "Castilla",
+      "Av. Boyaca"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "3d15b0f1",
+    "nombre": "F423 Favidi AM",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Favidi",
+      "Castilla",
+      "Av. Boyaca",
+      "Av. Americas"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "8c7e87a3",
+    "nombre": "F424 Favidi PM",
+    "categoria": "sitp",
+    "color": "blue",
+    "paradas": [
+      "Favidi",
+      "Castilla",
+      "Av. Boyaca",
+      "Av. Americas"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "ddd2412e",
+    "nombre": "8-3 Castilla",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Castilla",
+      "Kennedy"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "5b81dd8a",
+    "nombre": "8-1 Kennedy Central",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Kennedy Central",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "37f4a014",
+    "nombre": "8-4 Corabastos",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Corabastos",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "c0eedbc1",
+    "nombre": "8-5 Biblioteca Tintal",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Biblioteca Tintal",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "ac4be287",
+    "nombre": "8-6 Timiza",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Timiza",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "efaa39b3",
+    "nombre": "F402 Palmitas",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Palmitas",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "afa9d486",
+    "nombre": "F407 La Magdalena",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "La Magdalena",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "df24a1e7",
+    "nombre": "F409 Tierra Buena",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Tierra Buena",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  },
+  {
+    "id": "1d5e6748",
+    "nombre": "F425 Circular Timiza",
+    "categoria": "alimentador",
+    "color": "green",
+    "paradas": [
+      "Timiza",
+      "Castilla"
+    ],
+    "rutas": [],
+    "estacion": null
+  }
+]

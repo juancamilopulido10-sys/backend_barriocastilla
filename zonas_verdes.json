@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8fab3ffa",
+    "nombre": "Zona verde cicloruta Castilla",
+    "actividades": "Ciclismo, paseo, ejercicio al aire libre",
+    "lat": 4.63483,
+    "lon": -74.14495,
+    "direccion": "Cl. 7a #78c2"
+  },
+  {
+    "id": "00d0f312",
+    "nombre": "Parque Castilla (IDRD 08-030)",
+    "actividades": "Juegos infantiles, descanso, paseo",
+    "lat": 4.64096,
+    "lon": -74.14271,
+    "direccion": "Avenida Cra 8"
+  },
+  {
+    "id": "cc1c1577",
+    "nombre": "Nueva Castilla Park",
+    "actividades": "Descanso, paseo, juegos",
+    "lat": 4.65005,
+    "lon": -74.15153,
+    "direccion": "Ak 88d #8C-21"
+  },
+  {
+    "id": "eb062baa",
+    "nombre": "Plaza Castilla",
+    "actividades": "Descanso, encuentro comunitario",
+    "lat": 4.64631,
+    "lon": -74.14365,
+    "direccion": "Cl. 10 #80f-40"
+  },
+  {
+    "id": "b6ffb061",
+    "nombre": "Casas de Nueva Castilla Park",
+    "actividades": "Juegos infantiles, descanso",
+    "lat": 4.65033,
+    "lon": -74.15116,
+    "direccion": "Ak 88d #87B-75"
+  },
+  {
+    "id": "52e9f44e",
+    "nombre": "Villa Alsacia Park",
+    "actividades": "Descanso, paseo, juegos, deporte",
+    "lat": 4.64437,
+    "lon": -74.13558,
+    "direccion": "Tv. 78d #10B-54"
+  },
+  {
+    "id": "d6133f84",
+    "nombre": "Castilla Reserved Park",
+    "actividades": "Descanso, paseo",
+    "lat": 4.65412,
+    "lon": -74.1553,
+    "direccion": "Cl. 8a #92-1"
+  },
+  {
+    "id": "00c43197",
+    "nombre": "Coliseo Deportivo Castilla",
+    "actividades": "Deporte, eventos, ejercicio",
+    "lat": 4.63942,
+    "lon": -74.13911,
+    "direccion": "Cl. 8b Bis #7343"
+  },
+  {
+    "id": "8ed7abe3",
+    "nombre": "Polideportivo Castilla",
+    "actividades": "Deporte, juegos, ejercicio",
+    "lat": 4.63927,
+    "lon": -74.13922,
+    "direccion": "Cl. 8b Bis #73b-1"
+  },
+  {
+    "id": "5ea64211",
+    "nombre": "Parque de Bolsillo Castilla (08-090)",
+    "actividades": "Descanso, paseo",
+    "lat": 4.63756,
+    "lon": -74.1414,
+    "direccion": "Cl. 7f #76a-19"
+  },
+  {
+    "id": "5b624e84",
+    "nombre": "Parque Zonal Castilla",
+    "actividades": "Deporte, juegos, lectura, descanso",
+    "lat": 4.6395,
+    "lon": -74.142,
+    "direccion": "Carrera 74 con Calle 8a Bis"
+  }
+]

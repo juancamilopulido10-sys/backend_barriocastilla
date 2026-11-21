@@ -1,0 +1,23 @@
+[
+  {
+    "id": "85a90352",
+    "nombre": "Unidad de Atención de salud Abastos",
+    "lat": 4.632573,
+    "lon": -74.154911,
+    "direccion": "Avenida Carrera 80C"
+  },
+  {
+    "id": "cfa04e6c",
+    "nombre": "Centro Medico Kennedy",
+    "lat": 4.6315145,
+    "lon": -74.1501014,
+    "direccion": "Calle 5b #7840"
+  },
+  {
+    "id": "5938b3ea",
+    "nombre": "Centro Radiologico en Castilla",
+    "lat": 4.6419001,
+    "lon": -74.1405183,
+    "direccion": "Cra. 78a #9-39 Loc 1"
+  }
+]

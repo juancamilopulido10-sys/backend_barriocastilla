@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f23e4adc",
+    "nombre": "Gimnasio Maria Luisa Tricheth",
+    "descripcion": "Institucion educativa (gimnasio) ubicada en el barrio Castilla, Bogota.",
+    "tipo": "kindergarten",
+    "lat": 4.642284,
+    "lon": -74.141526,
+    "direccion": null
+  },
+  {
+    "id": "aec8cde1",
+    "nombre": "Colegio San Jose de Castilla (sede C)",
+    "descripcion": "Institucion educativa distrital ubicada en el barrio Castilla (Kennedy), Bogota. Forma parte de la red de colegios distritales de la ciudad.",
+    "tipo": "school",
+    "lat": 4.65076,
+    "lon": -74.134984,
+    "direccion": null
+  },
+  {
+    "id": "6801690f",
+    "nombre": "Jingle School",
+    "descripcion": "Jardin infantil privado ubicado en el barrio Castilla, localidad de Kennedy. Atiende a la primera infancia.",
+    "tipo": "school",
+    "lat": 4.638894,
+    "lon": -74.143512,
+    "direccion": "Avenida Calle 8"
+  },
+  {
+    "id": "fc842493",
+    "nombre": "General Gustavo Rojas Pinilla",
+    "descripcion": "Institucion educativa distrital ubicada en el barrio Castilla, Bogota.",
+    "tipo": "school",
+    "lat": 4.648727,
+    "lon": -74.140871,
+    "direccion": null
+  },
+  {
+    "id": "e5a08725",
+    "nombre": "Centro Educativo San Luis de Gonzaga Fe y Alegria",
+    "descripcion": "Centro educativo de la fundacion Fe y Alegria ubicado en el barrio Castilla, Bogota. Atiende a la comunidad del sector.",
+    "tipo": "school",
+    "lat": 4.634889,
+    "lon": -74.146735,
+    "direccion": null
+  },
+  {
+    "id": "11dfe412",
+    "nombre": "Colegio I.E.D. Castilla",
+    "descripcion": "Institucion Educativa Distrital (IED) Castilla, ubicada en el barrio Castilla, Bogota.",
+    "tipo": "school",
+    "lat": 4.640958,
+    "lon": -74.142323,
+    "direccion": null
+  },
+  {
+    "id": "e29ac948",
+    "nombre": "Colegio Isabel Segunda",
+    "descripcion": "Institucion educativa ubicada en el barrio Castilla, Bogota.",
+    "tipo": "school",
+    "lat": 4.633428,
+    "lon": -74.152915,
+    "direccion": null
+  },
+  {
+    "id": "3bcbbbb0",
+    "nombre": "Colegio Distrital Nueva Castilla",
+    "descripcion": "Institucion educativa distrital publica ubicada en el barrio Castilla (Kennedy), Bogota. Forma parte de la red de colegios distritales.",
+    "tipo": "school",
+    "lat": 4.638501,
+    "lon": -74.141599,
+    "direccion": null
+  },
+  {
+    "id": "ea49c619",
+    "nombre": "Centro educativo sin nombre 24",
+    "descripcion": "Centro educativo ubicado en el barrio Castilla, Bogota.",
+    "tipo": "school",
+    "lat": 4.635174,
+    "lon": -74.15158,
+    "direccion": null
+  },
+  {
+    "id": "2074b47c",
+    "nombre": "Mimositos",
+    "descripcion": "Jardin infantil ubicado en el barrio Castilla, Bogota.",
+    "tipo": "school",
+    "lat": 4.635763,
+    "lon": -74.137421,
+    "direccion": null
+  }
+]

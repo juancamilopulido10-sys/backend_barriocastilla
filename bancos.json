@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ea8ce72b",
+    "nombre": "Davivienda",
+    "horario": "Lunes a viernes 9:00 a. m. - 4:00 p. m.",
+    "lat": 4.63605,
+    "lon": -74.137405,
+    "direccion": null
+  },
+  {
+    "id": "2ce0f7b4",
+    "nombre": "Banco de Bogotá",
+    "horario": "Lunes a viernes 9:00 a. m. - 3:30 p. m.",
+    "lat": 4.638842,
+    "lon": -74.136369,
+    "direccion": null
+  },
+  {
+    "id": "5c0f2952",
+    "nombre": "Corresponsal Bancolombia",
+    "horario": "Lunes a viernes 9:00 a. m. - 4:00 p. m.",
+    "lat": 4.642989,
+    "lon": -74.135352,
+    "direccion": null
+  }
+]
